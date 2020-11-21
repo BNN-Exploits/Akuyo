@@ -1,0 +1,2 @@
+Hi! you can add your own scripts by adding .txt files in the script folder. 
+Thanks for downloading Akuyo :) You can also minimize + maximize this box -/+
